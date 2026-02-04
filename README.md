@@ -155,3 +155,20 @@ Integration of provider-level performance metrics
 📌 Final Note
 
 This project is intentionally designed to emphasize business understanding and decision-making, rather than tool-heavy or ML-driven complexity — reflecting how analytics is often applied in real-world healthcare operations.
+
+👤 Author
+Shatansh Arora
+Business Analyst | Data Analytics 
+ ---
+
+## 📊 Power BI Dashboard Snapshots
+
+###claims denial overview
+![claims denial overview](https://github.com/shatansh-arora/healthcare-claims-denial-revenue-analysis/blob/main/dashboards/claims%20denial%20overview.png)
+
+###geographical denial analysis
+![geographical denial analysis](https://github.com/shatansh-arora/healthcare-claims-denial-revenue-analysis/blob/main/dashboards/geographical%20denial%20analysis.png)
+
+###service category analysis
+![service category analysis](https://github.com/shatansh-arora/healthcare-claims-denial-revenue-analysis/blob/main/dashboards/service%20category%20analysis.png)
+![]
