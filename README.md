@@ -163,12 +163,12 @@ Business Analyst | Data Analytics
 
 ## 📊 Power BI Dashboard Snapshots
 
-###claims denial overview
+### claims denial overview
 ![claims denial overview](https://github.com/shatansh-arora/healthcare-claims-denial-revenue-analysis/blob/main/dashboards/claims%20denial%20overview.png)
 
-###geographical denial analysis
+### geographical denial analysis
 ![geographical denial analysis](https://github.com/shatansh-arora/healthcare-claims-denial-revenue-analysis/blob/main/dashboards/geographical%20denial%20analysis.png)
 
-###service category analysis
+### service category analysis
 ![service category analysis](https://github.com/shatansh-arora/healthcare-claims-denial-revenue-analysis/blob/main/dashboards/service%20category%20analysis.png)
-![]
+
