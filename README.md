@@ -147,9 +147,13 @@ Deeper financial variance analysis
 Integration of provider-level performance metrics
 
 📁 Repository Structure
+
 /data        → claims dataset
+
 /sql         → business analysis SQL queries
+
 /dashboard  → Power BI dashboard file / screenshots
+
 /screenshots → dashboard visuals
 
 📌 Final Note
